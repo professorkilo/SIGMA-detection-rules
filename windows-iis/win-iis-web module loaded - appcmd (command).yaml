@@ -13,6 +13,8 @@ references:
 - https://github.com/gtworek/PSBits/blob/master/Misc/Install-PSBackdoor.ps1
 - https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
 - https://www.splunk.com/en_us/blog/security/fantastic-iis-modules-and-how-to-find-them.html
+- https://www.trendmicro.com/en_us/research/25/b/chinese-speaking-group-manipulates-seo-with-badiis.html
+- https://blog.talosintelligence.com/dragon-rank-seo-poisoning/
 tags:
 - attack.persistence
 - attack.t1505.004
