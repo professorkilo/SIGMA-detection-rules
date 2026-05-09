@@ -196,6 +196,7 @@ TA0005-Defense Evasion | T1562.001-Impair Defenses-Disable or modify tools | Def
 TA0005-Defense Evasion | T1562.001-Impair Defenses-Disable or modify tools | Defender: service component status disabled (Registry via Sysmon) | 13 | 
 TA0005-Defense Evasion | T1562.001-Impair Defenses-Disable or modify tools | Massive processes termination burst | 1 or 4688 | 
 TA0005-Defense Evasion | T1562.002-Disable Windows Event Logging  | Event log disabled or size reduced | 1 or 4688 | 
+TA0005-Defense Evasion | T1562.002-Disable Windows Event Logging  | OCSP auditing sttings changed | 5123(OCSP) | 
 TA0005-Defense Evasion | T1562.002-Impair Defenses: Disable Windows Event Logging  | Audit policy disabled | 4719 | 
 TA0005-Defense Evasion | T1562.002-Impair Defenses: Disable Windows Event Logging  | SQL Server: Audit object deleted | 33205 | 
 TA0005-Defense Evasion | T1562.002-Impair Defenses: Disable Windows Event Logging  | SQL Server: Audit object disabled | 33205 | 
